@@ -1,4 +1,4 @@
-# React-Dockerized
+# React Dockerized
 
 Repository to learn how to use docker and how to deploy react app with docker
 
